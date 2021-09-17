@@ -1,0 +1,11 @@
+pkg install git
+
+git clone 
+
+ls
+
+cd Run
+
+ls
+
+python Run.py
